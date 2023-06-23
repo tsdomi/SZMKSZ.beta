@@ -1,2 +1,2 @@
-# SZMKSZ.github.io
+# SZMKSZ
 szmksz weboldala, ideiglenes, fejlesztés alatt.
