@@ -263,7 +263,7 @@ span.wp-block-post-terms__separator {
 }
 .wp-block-post-excerpt__more-text a::after,
 .vision-service-section a.wp-block-button__link::after {
-  content: url("./assets/images/icon-open-arrow-right.png");
+  content: url("https://szmksz.sk/wp-content/themes/vision-fse/assets/images/icon-open-arrow-right.png");
   margin-left: 10px;
 }
 #vision-fse-to-top {
@@ -281,11 +281,11 @@ span.wp-block-post-terms__separator {
   z-index: 2;
 }
 .wp-block-latest-posts__post-date::before {
-  content: url("./assets/images/calendar.png");
+  content: url("https://szmksz.sk/wp-content/themes/vision-fse/assets/images/calendar.png");
   margin-right: 10px;
 }
 .single .wp-block-post-date time::before {
-  content: url("./assets/images/calendar.png");
+  content: url("https://szmksz.sk/wp-content/themes/vision-fse/assets/images/calendar.png");
   margin-right: 10px;
 }
 .single .wp-block-post-date time{
